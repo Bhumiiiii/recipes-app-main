@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.page-title {
+  text-align: center;
+
+  color: #333;
+}
+
+.loading {
+  text-align: center;
+  margin: 40px auto;
+}
